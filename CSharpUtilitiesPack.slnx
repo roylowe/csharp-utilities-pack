@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../Users/lowe_/source/repos/CSharpUtilitiesPack/CSV_Analyzer/CSV_Analyzer.csproj" />
+  <Project Path="FileOrganizer/FileOrganizer.csproj" />
+  <Project Path="TextSearchTool/TextSearchTool.csproj" />
+  <Project Path="Utilities.Core/Utilities.Core.csproj" />
+</Solution>
